@@ -70,13 +70,13 @@ My current arsenal for building and deploying advanced applications:
 
 ## 📊 GitHub Activity & Analytics
 
-#### 📈 My Development Flow (Using GitHub Dark Theme)
+#### 📈 My Development Flow 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=vue&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=vue&hide_border=true" height="180"/>
 </p>
 
-#### 🐍 Daily Code Commit Contribution (FIXED SNAKE ANIMATION!)
+#### 🐍 Daily Code Commit Contribution 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
 </p>
@@ -102,7 +102,8 @@ If your project demands high quality, scalable code, and AI integration—**let'
 ### 🔗 Get In Touch
 
 * **Resume:** [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view)
-* **✨ Philosophy:** "Code for impact. Design for people. Build to last."
+* 
+* **✨ Philosophy:** <b>"Code for impact. Design for people. Build to last."</b>
 
 ---
 
