@@ -79,7 +79,7 @@ My current arsenal for building and deploying advanced applications:
 #### 🐍 Daily Code Commit Contribution 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
-</p>
+</p>>
 
 #### 🌍 Top Languages
 <p align="center">
