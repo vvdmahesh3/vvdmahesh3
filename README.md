@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:6272A4,100:44475A&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=F8F8F2&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:4D5763,100:6E7887&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=BD93F9&center=true&vCenter=true&width=780&lines=Engineering+Scalable+AI+Solutions;From+Model+to+Deployment+(MLOps);Turning+Data+into+Deployable+Products;Learner.+Builder.+Shipper." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+AI+Solutions;From+Model+to+Deployment+(MLOps);Turning+Data+into+Deployable+Products;Learner.+Builder.+Shipper." />
 </p>
 
 <p align="center">
   <a href="https://vvdmahesh3.github.io/demo-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=vercel&logoColor=BD93F9"/>
+    <img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
   </a>
   <a href="https://www.linkedin.com/in/vvdmahesh362006/">
-    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:immahesh300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
+    <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=F08080"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VISITS&color=6272A4&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VISITS&color=6E7887&style=flat"/>
 </p>
 
 ---
@@ -34,11 +34,9 @@ I am VVD Mahesh Peruri, an AI-focused developer specializing in building highly 
 
 ---
 
-## 🌟 Featured Repository (Recruiter Highlight)
+## 🌟 Featured Product: Faculty Management System (FMS)
 
-### 🚀 Faculty Management System (FMS)
-
-An all-in-one academic platform built to revolutionize faculty workflow and enhance student engagement through **AI-powered intelligence**.
+### 🚀 An all-in-one platform built for workflow revolution through **AI-powered intelligence**.
 
 | Feature Highlight | Technology Used | Status |
 | :--- | :--- | :--- |
@@ -72,20 +70,20 @@ My current arsenal for building and deploying advanced applications:
 
 ## 📊 GitHub Activity & Analytics
 
-#### 📈 My Development Flow (Using Dracula Theme)
+#### 📈 My Development Flow (Using GitHub Dark Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=vue&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=vue&hide_border=true" height="180"/>
 </p>
 
-#### 🐍 Daily Code Commit Contribution (The Snake Animation)
+#### 🐍 Daily Code Commit Contribution (FIXED SNAKE ANIMATION!)
 <p align="center">
-  <img src="https://github.com/vvdmahesh3/vvdmahesh3/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
+  <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
 </p>
 
 #### 🌍 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdmahesh3&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdmahesh3&layout=compact&theme=vue&hide_border=true&langs_count=6"/>
 </p>
 
 ---
@@ -109,7 +107,7 @@ If your project demands high quality, scalable code, and AI integration—**let'
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44475A,50:6272A4,100:282A36&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7887,50:4D5763,100:30363D&height=120&section=footer"/>
 </p>
 <p align="center">
   <b>Thanks for visiting ⭐ Feel free to explore my repositories!</b>
