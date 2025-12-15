@@ -1,35 +1,117 @@
-<h1 align="center">Hi 👋, I'm VVD Mahesh Peruri</h1>
-<h3 align="center">AI Generalist -Everything about AI</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=Profile%20views&color=0e75b6&style=flat" alt="vvdmahesh3" /> </p>
-
-- 🔭 I’m currently working on [Faculty Management System (FMS) — an all-in-one academic platform to reduce faculty workload and increase student engagement.](📌 Project Link: Coming Soon – stay tuned on my GitHub!)
-
-- 🌱 I’m currently learning **🔧 Frameworks & Tools: React. 📂 Topics: Full Stack Development, Portfolio Animation, PWA Integration 🤖 Always exploring: AI integration into real-world tools (LLMs, Chatbots, etc.)js, Tailwind CSS, Express.js, Vite, TypeScript, JSX/TSX — powering my portfolio with speed, structure, and style ⚡ 🧠 Courses & Certifications: Microsoft Azure Fundamentals Google Digital Garage: Fundamentals of Digital Marketing AWS Academy Cloud Foundations (Focusing on cloud, development, and product thinking)**
-
-- 👯 I’m looking to collaborate on [Smart Productivity Tools for Students & Educators — Projects that solve real academic pain points using automation, dashboards, or AI. 💡 If you’re building anything around ed-tech, task management, or student-faculty platforms, let’s team up!](https://vvdmahesh3.github.io/demo-portfolio/)
-
-- 🤝 I’m looking for help with [🧠 I’m looking for help with Optimizing Real-Time Features in FMS — especially for things like: PWA Notifications Realtime attendance syncing Discussion Room (chat/forum logic) If you're good with WebSockets, Firebase, or Node.js, I’d love to connect.](📌 Project Link: Coming Soon – stay tuned on my GitHub!)
-
-- 👨‍💻 All of my projects are available at [https://vvdmahesh3.github.io/demo-portfolio/](https://vvdmahesh3.github.io/demo-portfolio/)
-
-- 📝 I regularly write articles on [✍️ Coming Soon! Planning to share tech thoughts, project breakdowns, and productivity tips. (Stay tuned!)](✍️ Coming Soon! Planning to share tech thoughts, project breakdowns, and productivity tips. (Stay tuned!))
-
-- 💬 Ask me about **Building a powerful student project portfolio from scratch Creative UI/UX tips for black-themed portfolios 🌑💡 How to turn academic project ideas into real products Anything about my journey: from diploma projects → internships → full-stack dev 🔄**
-
-- 📫 How to reach me **immahesh300@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view?usp=sharing](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view?usp=sharing)
-
-- ⚡ Fun fact **I think I’m funny… but my code has better timing 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vvdmahesh362006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vvdmahesh362006/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/im_mahesh_362006/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_mahesh_362006/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Focused%20Full%20Stack%20Developer%20|%20India&descAlignY=55" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=760&lines=Turning+Ideas+into+Real-World+Systems;AI+%7C+Full+Stack+%7C+Product+Thinking;Learning.+Building.+Shipping." />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvdmahesh3&show_icons=true&locale=en&layout=compact" alt="vvdmahesh3" /></p>
+<p align="center">
+  <a href="https://vvdmahesh3.github.io/demo-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00ff9c"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vvdmahesh362006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:immahesh300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=Profile%20Views&color=00ff9c&style=flat"/>
+</p>
+
+---
+
+## 👨‍💻 Who Am I?
+
+* **Name:** VVD Mahesh Peruri
+* **Degree:** B.Tech CSE (AI Specialization)
+* **Role:** AI-Focused Full Stack Developer
+* **Location:** India
+* **Focus:**
+    * AI-integrated web systems
+    * Academic & productivity platforms
+    * Clean UI with strong backend logic
+* **Mindset:** Product-first, scalable engineering
+
+I build real-world systems that solve practical problems. **Not demos. Not clones. Usable products.**
+
+---
+
+### 🚀 Flagship Project
+
+#### 🎓 Faculty Management System (FMS)
+
+An all-in-one academic platform designed to reduce faculty workload and improve student engagement.
+
+**🔹 Core Features**
+* Smart Attendance (manual + digital)
+* Assignment & Exam Tracking
+* Student Performance Dashboard
+* Faculty Task Planner
+* Notification System (PWA-ready)
+
+**🔹 Tech Stack**
+* Python (Flask)
+* JavaScript
+* SQLite
+* Bootstrap
+* Planned AI integrations
+
+**📌 Status:** Actively building & improving
+
+---
+
+### 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,flask,sqlite,mysql,postgres,docker,git,aws,gcp,azure,tailwind,figma&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=radical&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdmahesh3&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 🤝 Collaboration & Interests
+
+I’m interested in collaborating on:
+* AI-powered productivity tools
+* Education & student platforms
+* Automation-based systems
+* Full-stack applications with real users
+
+If your idea solves a real problem, let’s collaborate.
+
+---
+
+### 📄 Resume
+
+📌 View my resume here:
+👉 [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view)
+
+---
+
+### ✨ Philosophy
+
+> “Build systems that still matter when the hype is gone.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
+<p align="center">
+  <b>Thanks for visiting ⭐ Feel free to explore my repositories</b>
+</p>
