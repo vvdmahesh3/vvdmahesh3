@@ -13,7 +13,8 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: vvdmahesh3 
-          outputs: |
-            output/github-contribution-grid-snake-dark.svg
+          # This saves the output directly to the 'output' branch
+          output: dist/github-contribution-grid-snake-dark.svg
+          commit_author: VVD Mahesh Peruri <immahesh300@gmail.com> 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
