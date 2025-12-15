@@ -103,7 +103,7 @@ If your project demands high quality, scalable code, and AI integration—**let'
 
 * **Resume:** [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view)
   
-* **✨ Philosophy:** <b>"Code for impact. Design for people. Build to last."</b>
+* **✨ Philosophy:** <b>“Build systems that still matter when the hype is gone. Focus on clean abstraction, minimal debt, and robust testing. The best AI is the one that's boringly reliable five years from now.”</b>
 
 ---
 
@@ -111,5 +111,6 @@ If your project demands high quality, scalable code, and AI integration—**let'
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7887,50:4D5763,100:30363D&height=120&section=footer"/>
 </p>
 <p align="center">
-  <b>Thanks for visiting ⭐ Feel free to explore my repositories!</b>
+  <b>⭐ Thanks for visiting ⭐ </b>
+   <b> Feel free to explore my repositories!</b>
 </p>
