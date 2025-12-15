@@ -102,7 +102,7 @@ If your project demands high quality, scalable code, and AI integration—**let'
 ### 🔗 Get In Touch
 
 * **Resume:** [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view)
-* 
+  
 * **✨ Philosophy:** <b>"Code for impact. Design for people. Build to last."</b>
 
 ---
