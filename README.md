@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%30VISITS&color=6E7887&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%50VISITS&color=6E7887&style=flat"/>
 </p>
 
 ---
