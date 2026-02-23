@@ -1,84 +1,94 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Focused%20Full-Stack%20Developer%20%7C%20Building%20Useful%20Products&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=260&section=header&text=VVD%20Mahesh%20Peruri&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-Focused%20Full-Stack%20Developer%20%7C%20Building%20Useful%20Products&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Learning+by+Building;Turning+Ideas+into+Working+Products;AI+%2B+Full-Stack+Engineering;Consistency+over+Hype." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building.;Turning+Ideas+into+Real+Products.;AI+%2B+Full-Stack+Engineering.;Consistency+%3E+Hype.;Shipping+Things+That+Actually+Work." />
 </p>
 
 <p align="center">
   <a href="https://vvdmahesh3.github.io/demo-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-141E30?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vvdmahesh362006/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-141E30?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:immahesh300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-141E30?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://github.com/vvdmahesh3">
+    <img src="https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VIEWS&color=2c5364&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VIEWS&color=243B55&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-AI-focused Full-Stack Developer passionate about building **practical, real-world applications** using Python, Flask, React/TypeScript, and applied AI.  
-I enjoy taking ideas from concept → working product, with a strong focus on **clean architecture, usability, and reliability**.
+AI-focused Full-Stack Developer who enjoys turning **ideas into usable products**.  
+I build systems that are **practical, maintainable, and user-focused** — not just demos.
 
 - 🎓 B.Tech in Computer Science (AI Specialization)  
-- 🧠 Interests: Applied AI, Product Engineering, Automation  
-- 🛠 Approach: Build → Iterate → Ship → Improve  
+- 🧠 Focus: Applied AI, Product Engineering, Automation  
+- 🛠 Philosophy: Build → Iterate → Ship → Improve  
+
+> I value clarity, reliability, and real-world usefulness over hype.
 
 ---
 
 ## 🚀 What I Build
 
 - AI-powered web applications  
-- Full-stack products with real users in mind  
-- Developer-focused tools & dashboards  
-- Automation systems that reduce manual work  
-
-> I care less about flashy demos and more about **things that actually work in practice.**
+- Full-stack systems with real user flows  
+- Automation tools that reduce manual effort  
+- Clean dashboards & developer tools  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,flask,sqlite,mysql,git,github,postman&theme=dark&perline=5" />
+</p>
 
-**Frameworks & Backend**
-
-**Developer Tools**
-
-**Data & AI**
-
+<p align="center">
+  <b>Core:</b> Python • JavaScript • TypeScript • SQL  
+  <br/>
+  <b>Backend:</b> Flask • REST APIs  
+  <br/>
+  <b>Data & AI:</b> Pandas • NumPy • OCR Pipelines • AI API Integrations  
+</p>
 
 ---
 
 ## 📌 Selected Projects
 
-- **MediQ** – AI-powered medical report analyzer  
-  *Full-stack system for extracting insights from PDFs & OCR medical reports.*
+**🩺 MediQ** – AI Medical Report Analyzer  
+> AI-powered full-stack system to extract insights from PDFs & OCR medical reports.
 
-- **Faculty Management System** – Academic workflow automation  
-  *Built APIs and dashboards to streamline attendance, assignments, and analytics.*
+**🏫 Faculty Management System**  
+> Full-stack platform for attendance, assignments, and performance dashboards.
 
-- **SelfSync** – Personal productivity system  
-  *Designed modular backend services and UX-first flows for habit & goal tracking.*
+**🧠 SelfSync** – Personal Productivity System  
+> Modular backend + UX-first flows for habit & goal tracking.
 
-👉 More projects on my **[Portfolio](https://vvdmahesh3.github.io/demo-portfolio/)**
+👉 Explore more on my **[Portfolio](https://vvdmahesh3.github.io/demo-portfolio/)**
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -87,19 +97,18 @@ I enjoy taking ideas from concept → working product, with a strong focus on **
 
 I’m open to:
 - Internships & trainee roles  
-- Product-focused development work  
 - Startup collaborations  
-- AI + Full-stack projects  
+- AI + Full-stack product work  
 
-📩 Reach out via **LinkedIn or Email**  
-🌐 Explore my work on **Portfolio**
+📩 Reach out on **LinkedIn / Email**  
+🌐 Explore projects on my **Portfolio**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting — feel free to explore my repositories ⭐
+  ⭐ Thanks for visiting — let’s build something meaningful ⭐
 </p>
