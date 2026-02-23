@@ -1,114 +1,122 @@
+<!-- ========================= HERO SECTION ========================= -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00DBDE, #FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi, I'm Mahesh 👋
+  </span>
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=260&section=header&text=VVD%20Mahesh%20Peruri&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-Focused%20Full-Stack%20Developer%20%7C%20Building%20Useful%20Products&descAlignY=60" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=800&lines=AI-Focused+Full-Stack+Developer;Building+Production-Ready+Web+%26+AI+Systems;Python+%7C+Flask+%7C+React+%7C+TypeScript;Turning+Ideas+Into+Real-World+Products" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+by+Building.;Turning+Ideas+into+Real+Products.;AI+%2B+Full-Stack+Engineering.;Consistency+%3E+Hype.;Shipping+Things+That+Actually+Work." />
-</p>
-
-<p align="center">
-  <a href="https://vvdmahesh3.github.io/demo-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-141E30?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vvdmahesh362006/">
-    <img src="https://img.shields.io/badge/LinkedIn-141E30?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:immahesh300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-141E30?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://github.com/vvdmahesh3">
-    <img src="https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VIEWS&color=243B55&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-AI-focused Full-Stack Developer who enjoys turning **ideas into usable products**.  
-I build systems that are **practical, maintainable, and user-focused** — not just demos.
+I’m an **AI-focused Full-Stack Developer** who builds **production-grade systems** — not just demos.  
+My work blends **applied AI, clean backend architecture, and UX-first full-stack engineering** to create products that are practical, scalable, and user-centered.
 
-- 🎓 B.Tech in Computer Science (AI Specialization)  
-- 🧠 Focus: Applied AI, Product Engineering, Automation  
-- 🛠 Philosophy: Build → Iterate → Ship → Improve  
-
-> I value clarity, reliability, and real-world usefulness over hype.
+- 🎓 **B.Tech in CSE (AI Specialization)**  
+- 🧠 Focus: Applied AI • Product Engineering • Automation  
+- 🛠 Philosophy: **Build → Iterate → Ship → Improve**  
+- 🎯 Goal: Build intelligent systems that solve real operational problems
 
 ---
 
-## 🚀 What I Build
+## 🧠 What I Build
 
-- AI-powered web applications  
-- Full-stack systems with real user flows  
+- AI-powered web applications (OCR, GenAI integrations)  
+- Full-stack systems with real user workflows  
 - Automation tools that reduce manual effort  
-- Clean dashboards & developer tools  
+- Clean dashboards, developer tools & internal platforms  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,flask,sqlite,mysql,git,github,postman&theme=dark&perline=5" />
-</p>
+**Languages**  
+`Python` · `JavaScript` · `TypeScript` · `SQL`
 
-<p align="center">
-  <b>Core:</b> Python • JavaScript • TypeScript • SQL  
-  <br/>
-  <b>Backend:</b> Flask • REST APIs  
-  <br/>
-  <b>Data & AI:</b> Pandas • NumPy • OCR Pipelines • AI API Integrations  
-</p>
+**Backend & APIs**  
+`Flask` · `REST APIs` · `Modular Service Design`
 
----
+**Frontend**  
+`React` · `TypeScript` · `Modern UI Patterns`
 
-## 📌 Selected Projects
+**AI & Data**  
+`OCR Pipelines` · `GenAI API Integrations` · `Pandas` · `NumPy`
 
-**🩺 MediQ** – AI Medical Report Analyzer  
-> AI-powered full-stack system to extract insights from PDFs & OCR medical reports.
-
-**🏫 Faculty Management System**  
-> Full-stack platform for attendance, assignments, and performance dashboards.
-
-**🧠 SelfSync** – Personal Productivity System  
-> Modular backend + UX-first flows for habit & goal tracking.
-
-👉 Explore more on my **[Portfolio](https://vvdmahesh3.github.io/demo-portfolio/)**
+**Dev Workflow**  
+`Git/GitHub` · `Postman` · `System Design` · `Clean Architecture`
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### 🩺 MediQ — AI Medical Report Analyzer  
+AI-powered full-stack system to process **PDFs, OCR medical images, and structured data**, delivering:  
+- Risk scoring & abnormality detection  
+- Confidence metrics  
+- Real-time dashboards & automated reports  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+### 🧠 SelfSync — Personal Productivity System  
+A modular personal operating system for:  
+- Habit tracking  
+- Goal management  
+- Progress analytics with UX-first flows  
+
+### 🏫 Faculty Management Platform  
+Full-stack academic workflow system for:  
+- Attendance  
+- Assignments  
+- Performance dashboards  
+*(Designed as a real operational platform, not a toy project)*  
+
+➡️ **Explore more:** [Portfolio](#)
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🧑‍💻 Built **AI-powered healthcare analytics systems**  
+- 🔍 Designed **robust OCR pipelines with fallback logic**  
+- 📊 Created **real-time dashboards** for operational insights  
+- 🏗 Strong foundation in **DSA, OOP, REST APIs & system design**  
+- 🤝 Experience working in **real SDLC environments**
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m open to:
-- Internships & trainee roles  
-- Startup collaborations  
-- AI + Full-stack product work  
+I’m open to:  
+**Internships · AI + Full-Stack roles · Startup collaborations · Product engineering**
 
-📩 Reach out on **LinkedIn / Email**  
-🌐 Explore projects on my **Portfolio**
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-black?logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
-</p>
+<!-- ========================= OPTIONAL VISUALS ========================= -->
 
 <p align="center">
-  ⭐ Thanks for visiting — let’s build something meaningful ⭐
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="160" />
+</p>
+
+<!-- Optional fun dev touch -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
