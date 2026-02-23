@@ -1,4 +1,4 @@
-<h1 align="center">Mahesh</h1>
+<h1 align="center">VVD Mahesh Peruri</h1>
 <h3 align="center">AI-Focused Full-Stack Developer</h3>
 
 <p align="center">
@@ -52,7 +52,7 @@ Modular system for habit tracking, goals, and progress analytics.
 **🏫 Faculty Management Platform**  
 Operational platform for attendance, assignments, and performance dashboards.
 
-➡️ Explore more on my **Portfolio** → https://your-portfolio-link
+➡️ Explore more on my **Portfolio** → https://vvdmahesh3.github.io/demo-portfolio/
 
 ---
 
