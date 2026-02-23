@@ -1,116 +1,105 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:4D5763,100:6E7887&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VVD%20Mahesh%20Peruri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Focused%20Full-Stack%20Developer%20%7C%20Building%20Useful%20Products&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+AI+Solutions;From+Model+to+Deployment+(MLOps);Turning+Data+into+Deployable+Products;Learner.+Builder.+Shipper." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Learning+by+Building;Turning+Ideas+into+Working+Products;AI+%2B+Full-Stack+Engineering;Consistency+over+Hype." />
 </p>
 
 <p align="center">
   <a href="https://vvdmahesh3.github.io/demo-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vvdmahesh362006/">
-    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:immahesh300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=F08080"/>
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VISITS&color=6E7887&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=vvdmahesh3&label=PROFILE%20VIEWS&color=2c5364&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me: The AI-Focused Engineer
+## 👨‍💻 About Me
 
-I am VVD Mahesh Peruri, an AI-focused developer specializing in building highly reliable, intelligent systems. My mission is to bridge the gap between complex machine learning models and production-ready, user-friendly applications.
+AI-focused Full-Stack Developer passionate about building **practical, real-world applications** using Python, Flask, React/TypeScript, and applied AI.  
+I enjoy taking ideas from concept → working product, with a strong focus on **clean architecture, usability, and reliability**.
 
-* **⚡ Expertise:** AI Integration, Full Stack Architecture, MLOps, Product Design
-* **🎓 Education:** B.Tech CSE (AI Specialization)
-* **💡 Mindset:** **Product-First Engineering.** Systems must solve real problems and scale effortlessly.
-
----
-
-## 🌟 Featured Product: Faculty Management System (FMS)
-
-### 🚀 An all-in-one platform built for workflow revolution through **AI-powered intelligence**.
-
-| Feature Highlight | Technology Used | Status |
-| :--- | :--- | :--- |
-| **Smart Attendance** | Flask, Computer Vision (Planned) | Building |
-| **Performance Dashboard** | JavaScript, Data Visualization | Active |
-| **Task Planning Engine** | SQLite, Optimized Business Logic | Active |
-| **Scalability** | Docker Containerization (Planned) | Planning |
-
-> "FMS moves beyond basic data entry to provide actionable insights, significantly reducing administrative overhead."
+- 🎓 B.Tech in Computer Science (AI Specialization)  
+- 🧠 Interests: Applied AI, Product Engineering, Automation  
+- 🛠 Approach: Build → Iterate → Ship → Improve  
 
 ---
 
-## 🛠 The Advanced Tech Stack
+## 🚀 What I Build
 
-My current arsenal for building and deploying advanced applications:
+- AI-powered web applications  
+- Full-stack products with real users in mind  
+- Developer-focused tools & dashboards  
+- Automation systems that reduce manual work  
 
-#### 🌐 Core Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,flask,fastapi,postgres,sqlite,mongodb&theme=dark&perline=6" />
-</p>
-
-#### ☁️ AI/ML Engineering & Cloud Architecture
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,kubernetes,gcp,aws,azure,grafana,prometheus,git&theme=dark&perline=6" />
-</p>
-<p align="center">
-  **Focus Areas:** LLM Fine-Tuning, MLOps (CI/CD for Models), Vector Databases (e.g., Pinecone/Weaviate for RAG)
-</p>
+> I care less about flashy demos and more about **things that actually work in practice.**
 
 ---
 
-## 📊 GitHub Activity & Analytics
+## 🛠 Tech Stack
 
-#### 📈 My Development Flow 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=vue&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=vue&hide_border=true" height="180"/>
-</p>
+**Languages & Core**
 
-#### 🐍 Daily Code Commit Contribution 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of contributions" />
-</p>>
+**Frameworks & Backend**
 
-#### 🌍 Top Languages
+**Developer Tools**
+
+**Data & AI**
+
+
+---
+
+## 📌 Selected Projects
+
+- **MediQ** – AI-powered medical report analyzer  
+  *Full-stack system for extracting insights from PDFs & OCR medical reports.*
+
+- **Faculty Management System** – Academic workflow automation  
+  *Built APIs and dashboards to streamline attendance, assignments, and analytics.*
+
+- **SelfSync** – Personal productivity system  
+  *Designed modular backend services and UX-first flows for habit & goal tracking.*
+
+👉 More projects on my **[Portfolio](https://vvdmahesh3.github.io/demo-portfolio/)**
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdmahesh3&layout=compact&theme=vue&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvdmahesh3&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvdmahesh3&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🤝 Collaboration & Future Initiatives
+## 🤝 Let’s Connect
 
-I am actively seeking partnerships for projects focused on:
-* **Intelligent Automation:** Building systems that use LLMs/ML to reduce human friction.
-* **Ed-Tech Innovation:** Next-generation learning and productivity platforms.
-* **System Architecture:** Developing robust, scalable microservices and APIs.
+I’m open to:
+- Internships & trainee roles  
+- Product-focused development work  
+- Startup collaborations  
+- AI + Full-stack projects  
 
-If your project demands high quality, scalable code, and AI integration—**let's connect.**
-
----
-
-### 🔗 Get In Touch
-
-* **Resume:** [https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view](https://drive.google.com/file/d/10GWqr0UQT_ZPekikB7mYalArErIPI_Mv/view)
-  
-* **✨ Philosophy:** <b>“Build systems that still matter when the hype is gone. Focus on clean abstraction, minimal debt, and robust testing. The best AI is the one that's boringly reliable five years from now.”</b>
+📩 Reach out via **LinkedIn or Email**  
+🌐 Explore my work on **Portfolio**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7887,50:4D5763,100:30363D&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
 <p align="center">
-  <b>⭐ Thanks for visiting ⭐ </b>
-   <b> Feel free to explore my repositories!</b>
+  ⭐ Thanks for visiting — feel free to explore my repositories ⭐
 </p>
