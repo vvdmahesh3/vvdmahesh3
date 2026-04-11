@@ -77,9 +77,6 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer GIF"/>
 
-> *"Most people hide their scars. I highlight mine.*  
-> *Carrying four backlogs wasn't a stop sign — it was the curriculum of my endurance."*
-
 <br/>
 
 I'm **V V D Mahesh Peruri** — an **AI-focused Full-Stack Developer** who builds **production-grade systems**, not throwaway demos.  
