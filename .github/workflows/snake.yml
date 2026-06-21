@@ -1,35 +1,42 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-
+    # runs twice a day so the snake stays fresh without hammering the API
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
+# Required: newer repos default GITHUB_TOKEN to read-only, which makes the
+# deploy step below fail with a 403. This grants write access explicitly.
 permissions:
   contents: write
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# Stops overlapping runs from racing each other on the output branch
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          # one output per line — each can be styled independently via query string
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ffb3
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            output/github-snake-brand.svg?color_snake=#7c3aed&color_dots=#0d1117,#0a3d62,#0055ff,#00b8a9,#00ffb3
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
-
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
