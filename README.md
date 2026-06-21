@@ -156,30 +156,6 @@ const mahesh = {
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vvdmahesh3&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/ocean.gif">
-
-<img
-src="https://raw.githubusercontent.com/vvdmahesh3/vvdmahesh3/output/github-snake.svg">
-
-</picture>
-
-</div>
-
----
 
 # 💭 Developer Philosophy
 
