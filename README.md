@@ -166,20 +166,6 @@ const mahesh = {
 
 ---
 
-# 🧩 Coding Profile
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/vvdmahesh3?theme=dark&font=JetBrains%20Mono&ext=contest"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
 <picture>
 
 <source
