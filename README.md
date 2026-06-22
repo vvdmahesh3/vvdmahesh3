@@ -100,7 +100,7 @@
 <a href="https://github.com/vvdmahesh3/Faculty-Management-System">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvdmahesh3&repo=Faculty-Management-System&bg_color=0d1117&title_color=00ffb3&icon_color=0055ff&text_color=c9d1d9&border_color=0055ff" />
 </a>
-<a href="https://github.com/vvdmahesh3/demo-portfolio">
+<a href="https://vvdmahesh.vercel.app/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vvdmahesh3&repo=demo-portfolio&bg_color=0d1117&title_color=00ffb3&icon_color=0055ff&text_color=c9d1d9&border_color=0055ff" />
 </a>
 
