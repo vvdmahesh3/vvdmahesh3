@@ -255,14 +255,35 @@ Sustainability · Tableau · Data Visualization · Research · Environmental Awa
 <td width="50%" valign="top">
 
 ### 🎓 Certifications
+**✅ SAP Certified Associate – Backend Developer (ABAP Cloud)** *2025*
+ABAP Cloud · SAP BTP · Backend Development · Enterprise Applications
 
-✅  SAP Backend Developer (ABAP Cloud)
+**✅ Microsoft – Azure SQL** *May 2025*
+Azure SQL · Cloud Databases · SQL · Database Administration
 
-✅  Microsoft Azure SQL
+**✅ Microsoft – Generative AI for Data Science** *May 2025*
+Generative AI · LLMs · Prompt Engineering · Responsible AI
 
-✅  Generative AI for Data Science — Microsoft
+**✅ ServiceNow – IT Leadership Professional Certificate** *Mar 2025*
+IT Leadership · Enterprise Architecture · Strategic Planning
 
-✅  TCS ION Career Edge — Young Professional
+**✅ IBM – What is Data Science?** *May 2025*
+Data Science · Analytics · Data Lifecycle · Business Insights
+
+**✅ HP LIFE – Data Science Associate (EMCDSA)** *Mar 2025*
+Data Analysis · Data Science · Business Analytics
+
+**✅ Amazon Web Services – Introduction to IT & AWS Cloud** *May 2025*
+AWS Cloud · EC2 · S3 · Cloud Fundamentals
+
+**✅ Reliance Foundation – Python for Data Science** *May 2025*
+Python · Pandas · NumPy · Data Visualization
+
+**✅ TCS iON – Career Edge: Young Professional** *May 2025*
+Professional Skills · Communication · Interview Preparation · Workplace Readiness
+
+**✅ Adobe – Premiere Pro 2025 Essential Training** *Mar 2025*
+Video Editing · Post Production · Content Creation
 
 </td>
 </tr>
@@ -270,13 +291,31 @@ Sustainability · Tableau · Data Visualization · Research · Environmental Awa
 <td width="100%" colspan="2" valign="top">
 
 ### 🏆 Hackathons & Highlights
-⚡  STRIDES 2024 — Placement Tracker (Django + Firebase) · Appreciated by HOD
+### 🏆 Achievements & Recognition
 
-⚡  GDG Solutions Challenge 2026 — CrisisSignal AI (emergency AI platform)
+**⚡ GDG Solutions Challenge 2026 – CrisisSignal AI** *2026*  
+Developed an AI-powered emergency response platform focused on real-time crisis assistance
 
-⚡  GDG Code Playground 2025 — Online code editor (HTML/CSS/JS)
+**⚡ GDG Code Playground – Online Code Editor** *2025*  
+Built a browser-based code editor using HTML, CSS, and JavaScript
 
-⚡  Class Representative & Project Lead — Led 60+ students · Diploma 2022–2024
+**⚡ STRIDES 2024 – Placement Tracker** *2024*  
+Developed a placement management system using Django and Firebase · Appreciated by HOD
+
+**⚡ Class Representative & Project Lead** *2022 – 2024*  
+Led a class of 60+ students and coordinated academic activities and team projects during Diploma
+
+**🏅 Seerath Talent Test – 1st Prize Winner** *Nov 2019*  
+Awarded 1st Prize and Certificate of Merit by the Students Islamic Organization of India
+
+**🏅 ISRC – Inter School Recycling Championship** *Apr 2018*  
+Recognized for participation in ITC Limited's WELL-BEING OUT OF WASTE (WOW) Program
+
+**🏅 100% Attendance Award** *Oct 2015*  
+Presented by the Indian Medical Association & Dettol for maintaining perfect attendance
+
+**🏅 Best Student Award** *Jan 2013*  
+Honored by Sree Rajah Cock Shutt Aided Upper Primary School for outstanding academic performance
 
 </td>
 </tr>
