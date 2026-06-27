@@ -218,11 +218,9 @@ Prompt Engineering  ██████████████  99%    Coffee De
 
 <!-- ═══════════════════════ ACHIEVEMENTS ════════════════════════ -->
 
-<br/>
-
 <div align="center">
 
-## 🏅 Certifications & Milestones
+## 🏅 Achievements, Internships & Certifications
 
 </div>
 
@@ -232,40 +230,48 @@ Prompt Engineering  ██████████████  99%    Coffee De
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Certified In
+### 💼 Internships
+✦  Infosys — Software Intern
 
-```
-✅  ServiceNow CSA
-✅  ServiceNow CAD
-✅  SAP Backend Developer (ABAP Cloud)
-✅  Data Visualization with Python
-✅  AICTE OIB-SIP Internship
-```
+Nov 2025 – Feb 2026
+
+AI medical analyzer · React/TS · Flask · OCR
+✦  Anurag IT Solutions — Python Intern
+
+Dec 2023 – May 2024
+
+Flask · REST APIs · SQLite · Tkinter
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 2026 Targets
+### 🎓 Certifications
 
-```
-✅  Portfolio Website
-✅  Faculty Management System
-✅  ServiceNow + SAP Certs
-⬜  250+ GitHub Contributions
-⬜  AI SaaS Product → Ship
-⬜  Open Source Contributions
-⬜  Software Engineer Internship
-```
+✅  SAP Backend Developer (ABAP Cloud)
+
+✅  Microsoft Azure SQL
+
+✅  Generative AI for Data Science — Microsoft
+
+✅  TCS ION Career Edge — Young Professional
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 🏆 Hackathons & Highlights
+⚡  STRIDES 2024 — Placement Tracker (Django + Firebase) · Appreciated by HOD
+
+⚡  GDG Solutions Challenge 2026 — CrisisSignal AI (emergency AI platform)
+
+⚡  GDG Code Playground 2025 — Online code editor (HTML/CSS/JS)
+
+⚡  Class Representative & Project Lead — Led 60+ students · Diploma 2022–2024
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
 
 <!-- ═══════════════════════ CONNECT ════════════════════════ -->
 
