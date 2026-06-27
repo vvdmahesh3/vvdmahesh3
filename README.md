@@ -231,16 +231,25 @@ Prompt Engineering  ██████████████  99%    Coffee De
 <td width="50%" valign="top">
 
 ### 💼 Internships
-✦  Infosys — Software Intern
+## 💼 Internships
 
-Nov 2025 – Feb 2026
+**✦ Infosys Springboard — Artificial Intelligence Intern** *Nov 2025 – Jan 2026*  
+AI-powered medical report analyzer · React · TypeScript · Flask · OCR · PDF processing · Risk analysis
 
-AI medical analyzer · React/TS · Flask · OCR
-✦  Anurag IT Solutions — Python Intern
+**✦ Oasis Infobyte — Data Science Intern** *May 2026 – Jun 2026*  
+Python · Data Analysis · EDA · Machine Learning · Data Visualization · Predictive Modeling
 
-Dec 2023 – May 2024
+**✦ ANURAG IT SOLUTIONS PVT. LTD — Student Intern** *Jan 2024 – May 2024*  
+Python · Tkinter · MySQL · GUI Development · Web Development
 
-Flask · REST APIs · SQLite · Tkinter
+**✦ The Entrepreneurship Network — Human Resources Intern** *Mar 2025 – Jun 2025*  
+Recruitment · HR Operations · Candidate Screening · Documentation · Team Coordination
+
+**✦ Internshala — Student Partner (ISP)** *Jun 2025 – Jul 2025*  
+Leadership · Community Building · Campus Marketing · Communication · Brand Promotion
+
+**✦ 1M1B (1 Million for 1 Billion) — Green Intern** *May 2025 – Jun 2025*  
+Sustainability · Tableau · Data Visualization · Research · Environmental Awareness
 
 </td>
 <td width="50%" valign="top">
