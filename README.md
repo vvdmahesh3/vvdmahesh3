@@ -15,7 +15,7 @@
 ![FOCUS](https://img.shields.io/badge/◈%20FOCUS-AI%20+%20FULLSTACK-0055ff?style=flat-square&labelColor=0d1117)
 ![EDU](https://img.shields.io/badge/◆%20EDU-B.Tech%20CSE%20(AI)-7c3aed?style=flat-square&labelColor=0d1117)
 ![BASE](https://img.shields.io/badge/◉%20BASE-India-00ffb3?style=flat-square&labelColor=0d1117)
-[![Profile Views](https://komarev.com/ghpvc/?username=vvdmahesh3&label=◈%20VIEWS&color=0055ff&style=flat-square)](https://github.com/vvdmahesh3)
+[![Profile Views](https://komarev.com/ghpvc/?username=vvdmahesh3&label=◈%200VIEWS&color=0055ff&style=flat-square)](https://github.com/vvdmahesh3)
 
 </div>
 
