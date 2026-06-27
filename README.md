@@ -265,41 +265,6 @@ Present my work professionally.
 | 🌐 Portfolio v2 | 🟢 Active | ████████░░ 80% |
 | 📱 Full Stack Projects | 🔵 Learning | ███████░░░ 70% |
 
-
-<!-- ═══════════════════════ TECH STACK ════════════════════════ -->
-
-## 🧬 `04` — Tech Stack
-
-<div align="center">
-
-**◈ Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" />
-
-<br/><br/>
-
-**◈ Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-**◈ Backend + Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**◈ DevOps + Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" />
-
-</div>
-
----
-
----
-
 # 🧬 04 — Technology Arsenal
 
 <p align="center">
