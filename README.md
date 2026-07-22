@@ -231,7 +231,8 @@ Prompt Engineering  ██████████████  99%    Coffee De
 <td width="50%" valign="top">
 
 ### 💼 Internships
-## 💼 Internships
+**✦ FlyRank AI — Back-End AI Engineering Intern** *Jul 2026 – Aug 2026*  
+Backend AI Engineering · Python · FastAPI · LLM Applications · AI Agents · APIs · Backend Development
 
 **✦ Infosys Springboard — Artificial Intelligence Intern** *Nov 2025 – Jan 2026*  
 AI-powered medical report analyzer · React · TypeScript · Flask · OCR · PDF processing · Risk analysis
@@ -255,6 +256,13 @@ Sustainability · Tableau · Data Visualization · Research · Environmental Awa
 <td width="50%" valign="top">
 
 ### 🎓 Certifications
+
+**🏅 Microsoft Certified: Fabric Data Engineer Associate** *2026*  
+Microsoft Fabric · Data Engineering · Data Pipelines · ETL · Analytics
+
+**🏅 Microsoft Certified: SQL AI Developer Associate** *2026*  
+SQL · Azure SQL · AI-Enabled Database Development · T-SQL · Database Solutions
+
 **✅ SAP Certified Associate – Backend Developer (ABAP Cloud)** *2025*
 ABAP Cloud · SAP BTP · Backend Development · Enterprise Applications
 
@@ -267,23 +275,6 @@ Generative AI · LLMs · Prompt Engineering · Responsible AI
 **✅ ServiceNow – IT Leadership Professional Certificate** *Mar 2025*
 IT Leadership · Enterprise Architecture · Strategic Planning
 
-**✅ IBM – What is Data Science?** *May 2025*
-Data Science · Analytics · Data Lifecycle · Business Insights
-
-**✅ HP LIFE – Data Science Associate (EMCDSA)** *Mar 2025*
-Data Analysis · Data Science · Business Analytics
-
-**✅ Amazon Web Services – Introduction to IT & AWS Cloud** *May 2025*
-AWS Cloud · EC2 · S3 · Cloud Fundamentals
-
-**✅ Reliance Foundation – Python for Data Science** *May 2025*
-Python · Pandas · NumPy · Data Visualization
-
-**✅ TCS iON – Career Edge: Young Professional** *May 2025*
-Professional Skills · Communication · Interview Preparation · Workplace Readiness
-
-**✅ Adobe – Premiere Pro 2025 Essential Training** *Mar 2025*
-Video Editing · Post Production · Content Creation
 
 </td>
 </tr>
@@ -307,12 +298,6 @@ Led a class of 60+ students and coordinated academic activities and team project
 
 **🏅 Seerath Talent Test – 1st Prize Winner** *Nov 2019*  
 Awarded 1st Prize and Certificate of Merit by the Students Islamic Organization of India
-
-**🏅 ISRC – Inter School Recycling Championship** *Apr 2018*  
-Recognized for participation in ITC Limited's WELL-BEING OUT OF WASTE (WOW) Program
-
-**🏅 100% Attendance Award** *Oct 2015*  
-Presented by the Indian Medical Association & Dettol for maintaining perfect attendance
 
 **🏅 Best Student Award** *Jan 2013*  
 Honored by Sree Rajah Cock Shutt Aided Upper Primary School for outstanding academic performance
